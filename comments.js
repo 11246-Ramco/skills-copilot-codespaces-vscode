@@ -1,5 +1,5 @@
 //create web server
-const express = require('express');
+import express from 'express';
 const app = express();
 
 //create a route
